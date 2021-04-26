@@ -1,0 +1,52 @@
+name: facebook_app
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.1.1
+  font_awesome_flutter: 9.0.0
+  splashscreen: 1.3.5
+  flutter_native_splash: 1.1.5+1
+  google_sign_in: 5.0.1
+  firebase_core: 1.0.3
+  firebase_auth: 1.0.2
+  cloud_firestore: 1.0.4
+  mask_text_input_formatter: 1.2.1
+  syncfusion_flutter_datepicker: 19.1.56-beta
+  intl: 0.17.0
+  flutter_masked_text: 0.8.0
+  flutter_easyloading: ^3.0.0
+  flutter_secure_storage: 4.1.0
+  flutter: 
+    sdk: flutter
+  google_fonts: ^2.0.0
+  material_floating_search_bar: ^0.3.4
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter_native_splash: 
+  color: '#e9cd24'
+  image: images/splash.jpg
+  color_dark: '#e9cd24'
+  android_gravity: fill
+  ios_content_mode: scaleAspectFill
+  android: true
+  ios: true
+
+flutter: 
+  assets: 
+    - images/splash2.jpg
+    - images/mercadolivre.png
+    - images/logo.png
+    - google_fonts/
+  uses-material-design: true
+
+get_cli: 
+  sub_folder: false
+

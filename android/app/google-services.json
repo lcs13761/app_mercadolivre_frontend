@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033789638201",
+    "project_id": "facerp-b8658",
+    "storage_bucket": "facerp-b8658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033789638201:android:48315d84a025ef399d2fe8",
+        "android_client_info": {
+          "package_name": "com.example.facebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033789638201-c30nelld6egf8hqf2kkgn619uuff35q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebook_app",
+            "certificate_hash": "8724f75a339f622fdd18b8f80274c45c6a2fb119"
+          }
+        },
+        {
+          "client_id": "1033789638201-nf4i25bac0dqr980luh01pmqd3ul7sh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29F3WkCyIetTVVlU7wXJ_xOYSFbkKzn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033789638201-nf4i25bac0dqr980luh01pmqd3ul7sh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
